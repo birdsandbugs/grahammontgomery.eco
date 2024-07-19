@@ -2,49 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://grahammontgomery.eco/about/</loc>
+    <lastmod>2021-06-01T20:40:11-07:00</lastmod>
+  </url><url>
     <loc>https://grahammontgomery.eco/</loc>
-    <lastmod>2022-01-10T18:50:25-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/writing/biochallenge/</loc>
-    <lastmod>2022-01-10T18:50:25-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/writing/</loc>
-    <lastmod>2022-01-10T18:50:25-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/categories/articles/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/tags/birds/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/categories/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/tags/scicomm/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/tags/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/writing/the_mistletoebird/</loc>
-    <lastmod>2021-09-03T20:39:30-07:00</lastmod>
-  </url><url>
-    <loc>https://grahammontgomery.eco/insectfamilies/</loc>
-    <lastmod>2021-06-02T18:28:08-07:00</lastmod>
+    <lastmod>2021-06-01T20:40:11-07:00</lastmod>
   </url><url>
     <loc>https://grahammontgomery.eco/resources/</loc>
-    <lastmod>2021-06-02T18:28:08-07:00</lastmod>
+    <lastmod>2021-06-01T20:40:11-07:00</lastmod>
   </url><url>
-    <loc>https://grahammontgomery.eco/about/</loc>
+    <loc>https://grahammontgomery.eco/writing/</loc>
     <lastmod>2021-06-01T20:40:11-07:00</lastmod>
   </url><url>
     <loc>https://grahammontgomery.eco/research/</loc>
     <lastmod>2021-06-01T20:39:54-07:00</lastmod>
   </url><url>
-    <loc>https://grahammontgomery.eco/portfolio/</loc>
+    <loc>https://grahammontgomery.eco/photography/</loc>
     <lastmod>2021-06-01T20:39:44-07:00</lastmod>
   </url><url>
+    <loc>https://grahammontgomery.eco/categories/articles/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/tags/birds/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/categories/</loc>
+  </url><url>
     <loc>https://grahammontgomery.eco/writing/mississippi/</loc>
-    <lastmod>2020-06-02T19:13:13-07:00</lastmod>
+  </url><url>
+    <loc>https://grahammontgomery.eco/resources/bugfams/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/resources/identification/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/tags/scicomm/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/tags/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/writing/biochallenge/</loc>
+  </url><url>
+    <loc>https://grahammontgomery.eco/writing/the_mistletoebird/</loc>
   </url>
 </urlset>
