@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>articles on Graham Montgomery</title>
+    <title>Articles on Graham Montgomery</title>
     <link>https://grahammontgomery.eco/categories/articles/</link>
-    <description>Recent content in articles on Graham Montgomery</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://grahammontgomery.eco/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Articles on Graham Montgomery</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://grahammontgomery.eco/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Mistletoebird</title>
       <link>https://grahammontgomery.eco/writing/the_mistletoebird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://grahammontgomery.eco/writing/the_mistletoebird/</guid>
       <description>How mistletoe got associated with Christmas is a bit of a mystery, but it’s probably because mistletoe is one of the few plant species that is green even in the winter. Imagine planning a winter celebration around 900 AD in northern Europe (just ignore the serfdom and disease for a moment): one of the few plants you could use for decoration would be mistletoe, since most other plants have either lost their leaves or died back in the middle of winter.</description>
     </item>
-    
   </channel>
 </rss>
